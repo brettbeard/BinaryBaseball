@@ -1,0 +1,4 @@
+*.suo
+*.Cache
+BinaryBaseball.Common/bin/
+BinaryBaseball.Common/obj/
