@@ -2,3 +2,5 @@
 *.Cache
 BinaryBaseball.Common/bin/
 BinaryBaseball.Common/obj/
+BinaryBaseball.SBS/bin/
+BinaryBaseball.SBS/obj/
